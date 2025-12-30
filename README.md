@@ -5,7 +5,7 @@ This analyze log files and give a practical summary that can be used.
 
 server.log:
 
-2024-06-01 08:00:01 INFO Server started
+2024-06-01 08:00:01 INFO Server started\n
 2024-06-01 08:01:12 INFO User login successful
 2024-06-01 08:02:45 WARNING High memory usage detected
 2024-06-01 08:03:10 INFO User requested dashboard
